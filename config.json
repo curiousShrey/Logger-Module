@@ -1,5 +1,5 @@
 {
-    "logLocation": ["file",""],
+    "logLocation": ["file","console"],
     "logLevel": "TRACE",
     "logfile": "log.txt"
 }
