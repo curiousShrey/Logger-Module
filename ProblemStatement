@@ -1,7 +1,0 @@
-<<<<<Task>>>>>
-Create a logger module that will save them inside file as well print them on console. 
-It should support following logger level: TRACE, DEBUG, INFO, WARNING, ERROR, NONE, ALL.
-Following properties should be loaded from config.json: 
-1. Output location: file, terminal or both.
- 2. Log level 
- 3. Log file location
