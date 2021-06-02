@@ -1,0 +1,5 @@
+{
+    "logLocation": ["file",""],
+    "logLevel": "TRACE",
+    "logfile": "log.txt"
+}
